@@ -1,0 +1,1 @@
+frontend for [graphql-meetup](https://github.com/tsuki42/graphql-meetup)
